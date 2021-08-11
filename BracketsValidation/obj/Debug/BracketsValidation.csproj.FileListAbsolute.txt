@@ -1,0 +1,13 @@
+C:\Users\premf\source\repos\BracketsValidation\BracketsValidation\obj\Debug\BracketsValidation.csproj.CoreCompileInputs.cache
+C:\Users\premf\source\repos\BracketsValidation\BracketsValidation\bin\Debug\BracketsValidation.exe.config
+C:\Users\premf\source\repos\BracketsValidation\BracketsValidation\bin\Debug\BracketsValidation.exe
+C:\Users\premf\source\repos\BracketsValidation\BracketsValidation\bin\Debug\BracketsValidation.pdb
+C:\Users\premf\source\repos\BracketsValidation\BracketsValidation\obj\Debug\BracketsValidation.exe
+C:\Users\premf\source\repos\BracketsValidation\BracketsValidation\obj\Debug\BracketsValidation.pdb
+C:\Users\premf\OneDrive\Documents\Git\BracketsValidation\BracketsValidation\BracketsValidation\bin\Debug\BracketsValidation.exe.config
+C:\Users\premf\OneDrive\Documents\Git\BracketsValidation\BracketsValidation\BracketsValidation\bin\Debug\BracketsValidation.exe
+C:\Users\premf\OneDrive\Documents\Git\BracketsValidation\BracketsValidation\BracketsValidation\bin\Debug\BracketsValidation.pdb
+C:\Users\premf\OneDrive\Documents\Git\BracketsValidation\BracketsValidation\BracketsValidation\obj\Debug\BracketsValidation.csprojAssemblyReference.cache
+C:\Users\premf\OneDrive\Documents\Git\BracketsValidation\BracketsValidation\BracketsValidation\obj\Debug\BracketsValidation.csproj.CoreCompileInputs.cache
+C:\Users\premf\OneDrive\Documents\Git\BracketsValidation\BracketsValidation\BracketsValidation\obj\Debug\BracketsValidation.exe
+C:\Users\premf\OneDrive\Documents\Git\BracketsValidation\BracketsValidation\BracketsValidation\obj\Debug\BracketsValidation.pdb

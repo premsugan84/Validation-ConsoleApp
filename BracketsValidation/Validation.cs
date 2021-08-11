@@ -38,6 +38,7 @@ namespace BracketsValidation
                 }
             }
 
+            //Only if brackets are closed in right sequence it will return truw
             if (stack.Count == 0 && iCnt == 0)
             {
                 return true;
